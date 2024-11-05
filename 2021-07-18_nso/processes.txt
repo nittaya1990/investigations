@@ -8,6 +8,7 @@ bh
 bluetoothfs
 boardframed
 brstaged
+brfstagingd
 bundpwrd
 cfprefssd
 ckeblld
@@ -23,6 +24,7 @@ corecomnetd
 ctrlfs
 dhcp4d
 Diagnostic-2543
+Diagnosticd
 Diagnostics-2543
 eventfssd
 eventsfssd
@@ -33,8 +35,10 @@ fmld
 frtipd
 fservernetd
 gatekeeperd
+GoldenGate
 gssdp
 JarvisPluginMgr
+jlmvskrd
 launchafd
 launchrexd
 libbmanaged
@@ -53,6 +57,8 @@ neagentd
 nehelprd
 netservcomd
 otpgrefd
+passsd
+payload
 pcsd
 PDPDialogs
 pstid
@@ -64,6 +70,12 @@ rolexd
 seraccountd
 setframed
 smmsgingd
+stagegrad
 stagingd
 vm_stats
+keybrd
 xpccfd
+fnotifyd
+tisppd
+updaterd
+wifip2ppd
